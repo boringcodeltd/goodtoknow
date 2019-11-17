@@ -1,4 +1,4 @@
-# share
+# Good to know
 
 ## Functional Programming
 * [Rúnar Óli Bjarnason: Dead-Simple Dependency Injection](https://www.youtube.com/watch?v=ZasXwtTRkio)
