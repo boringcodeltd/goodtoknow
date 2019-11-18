@@ -10,6 +10,9 @@
 * [John De Goes - FP to the Max](https://www.youtube.com/watch?v=sxudIMiOo68)
 * [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early)
 
+## TDD
+* [TDD for those who don't need it](https://www.youtube.com/watch?v=a6oP24CSdUg) //Light talk about Test-first for people that thinks they don't need it
+
 ## Scala
 * [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 * [StackOverflow: Relation between variance and mutabilty/immutability in Scala](https://stackoverflow.com/a/18562119/3348913)
